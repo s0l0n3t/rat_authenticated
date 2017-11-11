@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // Bir bütünleştirilmiş koda ilişkin Genel Bilgiler aşağıdaki öznitelikler kümesiyle
 // denetlenir. Bütünleştirilmiş kod ile ilişkili bilgileri değiştirmek için
 // bu öznitelik değerlerini değiştirin.
-[assembly: AssemblyTitle("Rat")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("FreeCode")]
+[assembly: AssemblyDescription("Microsoft's Gift package")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Rat")]
-[assembly: AssemblyCopyright("Copyright ©  2017")]
+[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyProduct("FreeCode")]
+[assembly: AssemblyCopyright("Free Source Code")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
