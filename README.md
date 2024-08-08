@@ -1,4 +1,2 @@
-# rat_authenticated
-    Botnet project
-    //Virüsü dağıtımında makineye yerleştirmeye yarayan bir araç.
-    //Değişken dosyasını virüs dosyası olarak değiştirilip derlenmesi gerekiyor.
+# Summary
+    This project provides cyber security on windows as C#. There are so many projects about this subject but they didn't use C# programming language.
